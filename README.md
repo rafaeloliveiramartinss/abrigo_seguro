@@ -22,10 +22,11 @@ Para executar o aplicativo Abrigo Seguro em seu ambiente de desenvolvimento loca
 
 2. **Instale as Dependências**
 
-   Certifique-se de ter Flet instalado. Se ainda não tiver instalado, você pode instalar usando pip:
+   Navegue até o diretório do projeto e instale as dependências listadas no arquivo `requirements.txt`:
 
    ```bash
-   pip install flet
+   cd abrigo_seguro
+   pip install -r requirements.txt
    ```
 
 3. **Ative o Firebase**
@@ -71,10 +72,21 @@ Para executar o aplicativo Abrigo Seguro em seu ambiente de desenvolvimento loca
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+Se você deseja contribuir com este projeto, por favor, siga os passos abaixo:
+
+1. Fork o repositório
+2. Crie uma branch para sua funcionalidade (`git checkout -b feature/SuaFuncionalidade`)
+3. Commit suas mudanças (`git commit -am 'Adiciona funcionalidade incrível'`)
+4. Push para a branch (`git push origin feature/SuaFuncionalidade`)
+5. Abra um Pull Request
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
+
+## Suporte
+
+Para qualquer dúvida ou problema, sinta-se à vontade para abrir uma issue neste repositório.
 
 ### Explicações Adicionais:
 
