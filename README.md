@@ -1,7 +1,6 @@
 ### README.md
 
 ```markdown
-```
 # Abrigo Seguro - Aplicativo Python com Flet
 
 Este é o repositório do projeto Abrigo Seguro, um aplicativo Python usando Flet para interface gráfica.
