@@ -1,5 +1,3 @@
-Vamos adicionar os passos para integrar o código do Firebase ao README, explicando como ativá-lo. Aqui está a seção atualizada:
-
 ### README.md
 
 ```markdown
