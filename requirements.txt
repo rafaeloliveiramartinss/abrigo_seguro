@@ -1,0 +1,5 @@
+flet
+flutter
+requests
+firebase-admin
+openai
